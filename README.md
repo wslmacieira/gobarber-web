@@ -13,3 +13,4 @@
 - Aula 11 - Validações
 - Aula 12 - Configurando store
 - Aula 13 - Autenticação
+- Aula 14 - Persistindo autenticação
