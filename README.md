@@ -16,3 +16,4 @@
 - Aula 14 - Persistindo autenticação
 - Aula 15 - Loading da autenticação
 - Aula 16 - Exibindo toasts
+- Aula 17 - Cadastro na aplicação

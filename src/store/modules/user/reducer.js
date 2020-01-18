@@ -6,9 +6,9 @@ const INITIAL_STATE = {
 
 export default function user(state = INITIAL_STATE, action) {
   switch (action.type) {
-    case '@auth/SIGN_IN_REQUEST':
+    case '@auth/SIGN_IN_SUCCESS':
       return produce(state, draft => {
-        draft.loading = true;
+        draft.profile = action.payload.user;
       });
     default:
       return state;
