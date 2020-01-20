@@ -18,3 +18,4 @@
 - Aula 16 - Exibindo toasts
 - Aula 17 - Cadastro na aplicação
 - Aula 18 - Requisições autenticadas
+- Aula 19 - Configurando Header
