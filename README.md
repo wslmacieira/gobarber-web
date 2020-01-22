@@ -21,3 +21,4 @@
 - Aula 19 - Configurando Header
 - Aula 20 - Estilizando notificações
 - Aula 21 - Notificações
+- Aula 22 - Página de perfil
