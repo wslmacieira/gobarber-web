@@ -22,3 +22,4 @@
 - Aula 20 - Estilizando notificações
 - Aula 21 - Notificações
 - Aula 22 - Página de perfil
+- Aula 23 - Atualizando perfil
