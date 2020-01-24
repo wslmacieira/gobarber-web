@@ -47,10 +47,11 @@ export const Container = styled.div`
       border: 0;
       border-radius: 4px;
       font-size: 16px;
+      font-weight: bold;
       transition: background 0.2s;
 
       &:hover {
-        background: ${darken(0.03, '#3b9eff')};
+        background: ${darken(0.08, '#3b9eff')};
       }
     }
   }
@@ -65,6 +66,7 @@ export const Container = styled.div`
     border: 0;
     border-radius: 4px;
     font-size: 16px;
+    font-weight: bold;
     transition: background 0.2s;
 
     &:hover {

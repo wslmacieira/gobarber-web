@@ -22,6 +22,8 @@ export function* signIn({ payload }) {
       return;
     }
 
+    api.defaults.headers.Authorization = `Baerer ${token}`;
+
     yield put(signInSuccess(token, user));
 
     history.push('/dashboard');
