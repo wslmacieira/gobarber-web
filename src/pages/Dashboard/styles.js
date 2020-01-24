@@ -2,7 +2,8 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   max-width: 600px;
-  margin: 50px auto;
+  margin: 0 auto;
+  margin-top: 50px;
 
   display: flex;
   flex-direction: column;
@@ -20,7 +21,7 @@ export const Container = styled.div`
 
   strong {
     color: #fff;
-    font-size: 24px;
+    font-size: 22px;
     margin: 0 15px;
   }
 
@@ -28,7 +29,7 @@ export const Container = styled.div`
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 15px;
-    margin-top: 30px;
+    margin: 30px 0 50px 0;
   }
 `;
 
@@ -43,7 +44,7 @@ export const Time = styled.li`
     margin-left: 0;
     display: block;
     color: ${props => (props.available ? '#999' : '#7159c1')};
-    font-size: 20px;
+    font-size: 16px;
     font-weight: normal;
   }
 
