@@ -24,3 +24,4 @@
 - Aula 22 - Página de perfil
 - Aula 23 - Atualizando perfil
 - Aula 24 - Foto de perfil
+- Aula 25 - Dados do Header
