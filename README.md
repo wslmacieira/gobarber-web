@@ -26,3 +26,4 @@
 - Aula 24 - Foto de perfil
 - Aula 25 - Dados do Header
 - Aula 26 - Logout da aplicação
+- Aula 27 - Estilização do Dashboard
